@@ -23,3 +23,13 @@
    ````bash
    python wordlist_generator.py
 
+Instructions
+Enter base strings (one per line) into the text area.
+Input a custom number sequence (optional).
+Click the "Generate Wordlist" button to create and save the wordlist.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contributing
+Contributions are welcome! Please feel free to open issues or submit pull requests.

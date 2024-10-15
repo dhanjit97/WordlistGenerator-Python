@@ -21,7 +21,7 @@
 
 4. Run:
    ````bash
-   python wordlist_generator.py
+   python WL2.py
 
 Instructions
 Enter base strings (one per line) into the text area.

@@ -21,7 +21,7 @@
 
 4. Run:
    ````bash
-   python WL2.py
+   python Wl2.py
 
 Instructions
 Enter base strings (one per line) into the text area.

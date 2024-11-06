@@ -9,7 +9,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   https://github.com/dhanjit97/WordlistGenerator-Python.git
+   [https://github.com/dhanjit97/WordlistGenerator-Python.git]
 
 2. Navigate to the project directory:
    ```bash
@@ -21,7 +21,7 @@
 
 4. Run:
    ````bash
-   python Wl2.py
+   python Version1.0.py
 
 Instructions
 Enter base strings (one per line) into the text area.

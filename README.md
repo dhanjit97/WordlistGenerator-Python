@@ -10,7 +10,6 @@
 1. Clone the repository:
    ```bash
    https://github.com/dhanjit97/WordlistGenerator-Python.git
-
 2. Navigate to the project directory:
    ```bash
    cd wordlist-generator
